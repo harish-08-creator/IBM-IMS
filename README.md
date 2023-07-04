@@ -1,2 +1,8 @@
-# IBM-IMS
-By using this Web Application, retailers can accurately track their stocks available in an inventory and can add, remove, update stocks according to its transactions. This is a web application hosted on a live IBM server which utilizes IBM DB2 for storage, Docker for containerization and Kubernetes for Automated deployment.
+# ims-final-Flask-application
+This repo is with Docker and Kubernetes files
+
+View the deployed ims-final flask application by clicking the below link,
+
+http://159.122.175.228:30496/
+
+
